@@ -1,0 +1,2 @@
+int t = 0
+print("lol",t)
